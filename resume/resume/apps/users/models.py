@@ -43,7 +43,7 @@ class Dynamic(BaseModel):
     comment = models.CharField(default="",verbose_name='评论')
     is_like = models.SmallIntegerField(choices=LIKE_CHOICE,verbose_name='点赞')
     data_created = models.DateTimeField(verbose_name='发布时间')
-    order = models.IntegerField(verbose_name='顺序')
+    # order = models.IntegerField(verbose_name='顺序')
     # 动态中的图片，最多九张，9个字段
     photo = models.CharField(verbose_name='图片')
 
