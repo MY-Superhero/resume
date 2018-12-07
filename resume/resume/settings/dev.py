@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'notices.apps.NoticesConfig',
     'positions.apps.PositionsConfig',
     'resumes.apps.ResumesConfig',
+    'menus.apps.MenusConfig',
 ]
 
 MIDDLEWARE = [
