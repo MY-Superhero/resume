@@ -42,8 +42,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/resume/apps/users/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-432">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="216">
+              <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="46" selection-end-column="22" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -80,8 +80,8 @@
         <option value="$PROJECT_DIR$/resume/resume/apps/companies/models.py" />
         <option value="$PROJECT_DIR$/resume/resume/apps/menus/models.py" />
         <option value="$PROJECT_DIR$/resume/resume/apps/positions/models.py" />
-        <option value="$PROJECT_DIR$/resume/resume/apps/users/models.py" />
         <option value="$PROJECT_DIR$/resume/resume/utils/models.py" />
+        <option value="$PROJECT_DIR$/resume/resume/apps/users/models.py" />
       </list>
     </option>
   </component>
@@ -736,8 +736,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/resume/apps/users/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="216">
+          <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="46" selection-end-column="22" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
