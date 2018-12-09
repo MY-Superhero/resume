@@ -209,4 +209,4 @@ REST_FRAMEWORK = {
 
 }
 
-# AUTH_USER_MODEL = 'users.User' # 指定自定义用户模型类，在数据库迁移之前
+AUTH_USER_MODEL = 'users.User' # 指定自定义用户模型类，在数据库迁移之前
